@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @due204
-- 👀 I’m interested in programming, music, electronics, arduino, raspberry, GNU/Linux. 
+- 👀 I’m interested in programming, music, electronics, arduino, raspberry and GNU/Linux. 
 - 🌱 I’m currently learning DJango
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me: due204@gmail.com
