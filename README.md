@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @due204
-- 👀 I'm a computer engineering student.
+- 📚 I'm a computer engineering student.
 - 👀 I’m interested in programming, music, electronics, arduino, raspberry and GNU/Linux. 
 - 🌱 I’m currently learning DJango
 - 💞️ I’m looking to collaborate on none
